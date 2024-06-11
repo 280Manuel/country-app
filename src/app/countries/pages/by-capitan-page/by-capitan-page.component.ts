@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-by-capitan-page',
+  selector: 'app-by-capital-page',
   templateUrl: './by-capitan-page.component.html',
   styles: ``
 })
